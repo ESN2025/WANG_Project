@@ -324,7 +324,7 @@ int main() {
 
 **Résultat vidéo :**
 
-
+https://github.com/user-attachments/assets/ea3d69e1-6b9e-4121-b30a-322bcf089c09
 
 
 
